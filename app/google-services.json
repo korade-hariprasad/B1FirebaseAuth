@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "676074594873",
+    "project_id": "b1firebaseauth",
+    "storage_bucket": "b1firebaseauth.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:676074594873:android:817fee7c9ca8785df8a3e8",
+        "android_client_info": {
+          "package_name": "sumagoscope.madipt.b1firebaseauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFczxQAwCSSNQhadKtoO2xM5D9_rmwSfc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
